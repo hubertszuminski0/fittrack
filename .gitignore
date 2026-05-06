@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.DS_Store
+coverage
+.npm-cache
+.git-fittrack
+.vite-dev*.log
+npm-debug.log*
