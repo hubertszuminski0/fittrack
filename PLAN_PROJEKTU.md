@@ -66,4 +66,4 @@ Widoki `Plany`, `Trening`, `Cele` i `Historia` dziela ekran na formularz oraz li
 
 ## Link do repozytorium
 
-Do uzupelnienia po zalozeniu publicznego repozytorium GitHub/GitLab.
+https://github.com/hubertszuminski0/FitTrack
