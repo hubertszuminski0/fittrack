@@ -19,25 +19,4 @@ FitTrack to aplikacja webowa do planowania treningow, zapisywania wykonanych akt
 - lucide-vue-next,
 - LocalStorage jako prosta warstwa danych demonstracyjnych.
 
-## Uruchomienie
 
-```bash
-npm install
-npm run dev
-```
-
-Testy:
-
-```bash
-npm run test
-```
-
-Build produkcyjny:
-
-```bash
-npm run build
-```
-
-## Demo i repozytorium
-
-Po zalozeniu publicznego repozytorium mozna wdrozyc aplikacje na Vercel, Netlify albo GitHub Pages. Projekt jest gotowy do wypchniecia jako standardowa aplikacja Vite.
