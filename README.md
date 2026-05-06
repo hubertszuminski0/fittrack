@@ -20,9 +20,11 @@ FitTrack to aplikacja webowa do planowania treningow, zapisywania wykonanych akt
 - LocalStorage jako prosta warstwa danych demonstracyjnych.
 
 
-Uruchomienie Projektu
+## Uruchomienie projektu
 
-Pobierz repozytorium:
+1. Pobierz repozytorium:
+
+```bash
 git clone https://github.com/hubertszuminski0/fittrack.git
 Przejdź do folderu projektu:
 cd fittrack
@@ -33,8 +35,6 @@ npm run dev
 Otwórz w przeglądarce adres pokazany w terminalu, np.:
 http://127.0.0.1:5173/
 Testy
-
 npm run test
 Build produkcyjny
-
 npm run build
